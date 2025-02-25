@@ -1,0 +1,11 @@
+{
+    "name": "angular-energy-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-energy-ui": "file:../stencil-energy-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
